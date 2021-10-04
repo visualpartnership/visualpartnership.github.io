@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on .:: Visual Partner-Ship ::.</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on .:: Visual Partner-Ship ::.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Oct 2018 12:59:51 -0500</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fedora</title>
+      <link>https://example.com/tags/fedora/</link>
+      <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
+      
+      <guid>https://example.com/tags/fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://example.com/tags/hugo/</link>
+      <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
+      
+      <guid>https://example.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snap</title>
+      <link>https://example.com/tags/snap/</link>
+      <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
+      
+      <guid>https://example.com/tags/snap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://example.com/tags/ubuntu/</link>
+      <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
+      
+      <guid>https://example.com/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awk</title>
+      <link>https://example.com/tags/awk/</link>
+      <pubDate>Wed, 10 Oct 2018 12:43:20 -0500</pubDate>
+      
+      <guid>https://example.com/tags/awk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>command-line</title>
+      <link>https://example.com/tags/command-line/</link>
+      <pubDate>Wed, 10 Oct 2018 12:43:20 -0500</pubDate>
+      
+      <guid>https://example.com/tags/command-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>https://example.com/tags/theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>https://example.com/tags/fun/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://example.com/tags/git/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://example.com/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://example.com/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll</title>
+      <link>https://example.com/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>migration</title>
+      <link>https://example.com/tags/migration/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/migration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
