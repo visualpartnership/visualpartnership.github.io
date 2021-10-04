@@ -1,0 +1,23 @@
+enable : true
+gallery:
+  - image : "https://res.cloudinary.com/carlogilmar/image/upload/v1603070648/website/IMG_6047_ej4z4j.png"
+  - image : "https://res.cloudinary.com/carlogilmar/image/upload/v1603071316/website/IMG_0109_izcbvu.png"
+  - image : "https://res.cloudinary.com/carlogilmar/image/upload/v1603070531/website/keynote_day1_nn53ot.png"
+events:
+  - name: "Evento 1"
+    url: "event.ong"
+  - name: "Evento 2"
+    url: "event.ong"
+collabs:
+  - title: "History of Erlang 1"
+    event: "Code BEAM America"
+    date_event: "March, 2021"
+    url: "https://res.cloudinary.com/carlogilmar/image/upload/v1603070648/website/IMG_6047_ej4z4j.png"
+  - title: "History of Erlang 2"
+    event: "Code BEAM America"
+    date_event: "March, 2021"
+    url: "https://res.cloudinary.com/carlogilmar/image/upload/v1603070648/website/IMG_6047_ej4z4j.png"
+  - title: "History of Erlang 3"
+    event: "Code BEAM America"
+    date_event: "March, 2021"
+    url: "https://res.cloudinary.com/carlogilmar/image/upload/v1603070648/website/IMG_6047_ej4z4j.png"
