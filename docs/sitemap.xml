@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://visualpartnership.xyz/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/fedora/</loc>
+    <loc>https://visualpartnership.xyz/tags/fedora/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://visualpartnership.xyz/tags/hugo/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://visualpartnership.xyz/post/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/snap/</loc>
+    <loc>https://visualpartnership.xyz/tags/snap/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://visualpartnership.xyz/tags/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/ubuntu/</loc>
+    <loc>https://visualpartnership.xyz/tags/ubuntu/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
+    <loc>https://visualpartnership.xyz/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/awk/</loc>
+    <loc>https://visualpartnership.xyz/tags/awk/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/command-line/</loc>
+    <loc>https://visualpartnership.xyz/tags/command-line/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
+    <loc>https://visualpartnership.xyz/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/creating-a-new-theme/</loc>
+    <loc>https://visualpartnership.xyz/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/theme/</loc>
+    <loc>https://visualpartnership.xyz/tags/theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://visualpartnership.xyz/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/goisforlovers/</loc>
+    <loc>https://visualpartnership.xyz/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/fun/</loc>
+    <loc>https://visualpartnership.xyz/tags/fun/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/hugoisforlovers/</loc>
+    <loc>https://visualpartnership.xyz/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/git/</loc>
+    <loc>https://visualpartnership.xyz/tags/git/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>https://visualpartnership.xyz/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/templates/</loc>
+    <loc>https://visualpartnership.xyz/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/jekyll/</loc>
+    <loc>https://visualpartnership.xyz/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/migrate-from-jekyll/</loc>
+    <loc>https://visualpartnership.xyz/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/migration/</loc>
+    <loc>https://visualpartnership.xyz/tags/migration/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>
