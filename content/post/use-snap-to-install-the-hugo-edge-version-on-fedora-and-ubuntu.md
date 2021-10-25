@@ -3,13 +3,13 @@ title: "Use Snap to install the Hugo edge version on Fedora and Ubuntu"
 date: 2018-10-26T12:59:51-05:00
 publishdate: 2018-10-26
 lastmod: 2018-10-26
-draft: false
+draft: true
 aliases:
   - /use-snap-to-install-the-hugo-edge-version-on-fedora/
 tags: ["hugo", "snap", "fedora", "ubuntu"]
 ---
 
-If you are using the Fedora or Ubuntu Linux distributions -- I'm currently on Fedora 28 -- and would like to [help test the latest development version of Hugo](https://discourse.gohugo.io/t/help-test-upcoming-hugo-0-50/14880), or if you just want to be on the bleeding-edge of things, this post is for you. 
+If you are using the Fedora or Ubuntu Linux distributions -- I'm currently on Fedora 28 -- and would like to [help test the latest development version of Hugo](https://discourse.gohugo.io/t/help-test-upcoming-hugo-0-50/14880), or if you just want to be on the bleeding-edge of things, this post is for you.
 
 ## Fedora-only steps
 
@@ -19,7 +19,7 @@ To get started, [install Snap on Fedora](https://docs.snapcraft.io/installing-sn
 sudo dnf install snapd
 ```
 
-Add the [Snap directory](https://docs.snapcraft.io/commands-and-aliases/3950) to your `PATH` by adding this line to your `~/.bashrc` file. Then restart your terminal to pick up the change: 
+Add the [Snap directory](https://docs.snapcraft.io/commands-and-aliases/3950) to your `PATH` by adding this line to your `~/.bashrc` file. Then restart your terminal to pick up the change:
 
 ```
 export PATH="$PATH:/var/lib/snapd/snap/bin"
@@ -39,7 +39,7 @@ Check if the Snap directory is on your `PATH` by listing each entry:
 echo $PATH | tr ':' '\n'
 ```
 
-If you don't see `/snap/bin` listed, then add this line to your `~/.bashrc` file. Then restart your terminal to pick up the change: 
+If you don't see `/snap/bin` listed, then add this line to your `~/.bashrc` file. Then restart your terminal to pick up the change:
 
 ```
 export PATH="$PATH:/snap/bin"

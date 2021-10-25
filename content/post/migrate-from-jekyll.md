@@ -3,7 +3,7 @@ title: "Migrate to Hugo from Jekyll"
 date: 2014-03-10
 publishdate: 2014-03-10
 lastmod: 2014-03-10
-draft: false
+draft: true
 tags: ["hugo", "jekyll", "migration", "git", "templates"]
 ---
 

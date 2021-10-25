@@ -4,10 +4,8 @@ gallery:
   - image : "https://res.cloudinary.com/carlogilmar/image/upload/v1603071316/website/IMG_0109_izcbvu.png"
   - image : "https://res.cloudinary.com/carlogilmar/image/upload/v1603070531/website/keynote_day1_nn53ot.png"
 events:
-  - name: "Evento 1"
-    url: "event.ong"
-  - name: "Evento 2"
-    url: "event.ong"
+  - name: "Descubriendo el Visual Thinking, 20 Noviembre 2021"
+    url: "https://lu.ma/descubriendovisualthinking2021"
 collabs:
   - title: "History of Erlang 1"
     event: "Code BEAM America"

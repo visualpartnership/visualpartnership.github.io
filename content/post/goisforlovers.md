@@ -3,7 +3,7 @@ title: "(Hu)go Template Primer"
 date: "2014-04-02"
 publishdate: "2014-04-02"
 lastmod: "2014-04-02"
-draft: false
+draft: true
 tags: ["go", "templates", "hugo"]
 ---
 
